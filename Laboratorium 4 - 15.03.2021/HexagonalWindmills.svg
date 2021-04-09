@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#FF0000;}
+	.st2{fill:#800080;}
+	.st3{fill:#0000FF;}
+	.st4{fill:#008000;}
+</style>
+
+<!--Hexagons-->
+<polygon class="st0" points="613.25,305.5 500.75,305.5 444.5,403 500.75,500.5 613.25,500.5 669.5,403">
+<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 557 403"
+                    to="360 557 403"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+</polygon>
+
+
+<polygon class="st0" points="1156.5,96.5 1090.5,96.5 1057.5,152 1090.5,207.5 1156.5,207.5 1189.5,152 ">
+
+<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 1123.5 152"
+                    to="360 1123.5 152"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+</polygon>
+
+<polygon class="st0" points="946.45,26.5 880.45,26.5 847.45,82 880.45,137.5 946.45,137.5 979.45,82 ">
+
+<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 913.4516 82"
+                    to="360 913.4516 82"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+</polygon>
+
+<polygon class="st0" points="553,117.5 472,117.5 431.5,188.5 472,259.5 553,259.5 593.5,188.5 ">
+
+<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 512.5 188.5"
+                    to="360 512.5 188.5"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+</polygon>
+
+<polygon class="st0" points="289.76,30.5 208.76,30.5 168.26,101.5 208.76,172.5 289.76,172.5 330.26,101.5 ">
+
+<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 249.2581 101.5"
+                    to="360 249.2581 101.5"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+</polygon>
+
+<polygon class="st0" points="982.93,425.5 870.43,425.5 814.18,523 870.43,620.5 982.93,620.5 1039.18,523 ">
+
+<animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 926.6774 523"
+                    to="360 926.6774 523"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+</polygon>
+
+<!--Rectangles-->
+<rect x="533.17" y="447.57" transform="matrix(0.9508 0.3099 -0.3099 0.9508 179.8463 -206.737)" class="st1" width="414.88" height="30.23"/>
+<rect x="233.03" y="136.62" transform="matrix(0.9508 0.3099 -0.3099 0.9508 63.743 -111.0372)" class="st1" width="296.64" height="16.98"/>
+<rect x="899.94" y="107.82" transform="matrix(0.9508 0.3099 -0.3099 0.9508 86.3608 -309.8742)" class="st1" width="237.09" height="18.12"/>
+<!--Triangle-->
+<polygon class="st2" points="380.69,147 344.39,353 417,353 "/>
+<polygon class="st3" points="741,465.46 692,754 790,754 "/>
+<polygon class="st4" points="1018.5,117 990,284 1047,284 "/>
+</svg>
